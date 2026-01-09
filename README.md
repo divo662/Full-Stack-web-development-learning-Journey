@@ -12,7 +12,7 @@ Code Gist: (https://gist.github.com/divo662/996a53036c44f0851307970b7d098491)
 Chapter 2 – Variables, Data Types, and Operators
 Code Gist: (https://gist.github.com/divo662/996a53036c44f0851307970b7d098491)
 
-Chapter 2 - Array and its methods, Objects
+Chapter 3 - Array and its methods, Objects
 Code Gist : (https://gist.github.com/divo662/4a9eb6415ff48ba2a52f3e1c2555d3c4)
 
 More chapters coming as I progress into arrays, functions, DOM, frontend frameworks, backend APIs, and databases.
