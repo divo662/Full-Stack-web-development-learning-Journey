@@ -15,6 +15,9 @@ Code Gist: (https://gist.github.com/divo662/996a53036c44f0851307970b7d098491)
 Chapter 3 - Array and its methods, Objects
 Code Gist : (https://gist.github.com/divo662/4a9eb6415ff48ba2a52f3e1c2555d3c4)
 
+Chapter 4 - Logical Statement in JS
+Code Gist : (https://gist.github.com/divo662/792cd03555ea608aa169fbea2b0137d3)
+
 More chapters coming as I progress into arrays, functions, DOM, frontend frameworks, backend APIs, and databases.
 
 Notes
